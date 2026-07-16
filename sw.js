@@ -1,6 +1,6 @@
 // Sales Tracker Service Worker
 // Increment this version number every time you push an update to GitHub
-var VERSION = 'v5';
+var VERSION = 'v6';
 var CACHE = 'sales-tracker-' + VERSION;
 
 // On install — cache the app
